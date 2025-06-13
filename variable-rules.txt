@@ -1,0 +1,6 @@
+1. Variables only start with character
+2. Variables can not have any space or line break
+3. Variables can not have any special character except underscore(_)
+4. Variables can not have any keyword
+5. Variables are case sensitive
+6. Best practice - Variables have meaningful names
