@@ -1,0 +1,14 @@
+Condition based decision making
+1. if statement
+    if CONDITION:
+        statement 1
+        statement 2
+        ...
+        statement N
+        
+2. if - else statement
+3. if - elif - else statement
+4. Nested Conditions
+
+Choice based decision making
+- match statement
