@@ -1,0 +1,11 @@
+1. Create a list of 10 elements.
+    ["Alice","Bob","Charlie","David","Eve","Fiona","George","Hannah","Ivan","Julia"]
+2. Add your name in the end of list
+3. Add your surname after "David"
+4. Add your friend's name before "Fiona"
+5. Display the total number of elements present in the list
+6. Display the names starting from "Charlie" to "Hannah" using slicing
+7. Display the names "Bob" to "Eve" using negative slicing
+8. Replace "Bob" and "Charlie" by "Jonny"
+9. Remove name from 5th index of list
+10. Display all the list items in alphabetical order.

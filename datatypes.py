@@ -22,7 +22,7 @@ x = (30,40,50,60)
 print(x)
 print(type(x))
 
-x = {"c",'C++','Java','Python','C++'}
+x = {"c",'C++','Java','Python','c++'}
 print(x)
 print(type(x))
 

@@ -1,0 +1,10 @@
+mylist = ['One Plus', 'iPhone', 'Redmi', 'Nothing', 'RealMe', 'Nokia']
+print(mylist)
+print(mylist[-6:-3])
+print(mylist[-3:])
+print(mylist[:-5])
+print(mylist[-5:-1])
+print(mylist[-3:-6])
+print(mylist[1:-2])
+print(mylist[-3:5])
+print(mylist[-3:2])
