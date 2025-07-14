@@ -1,0 +1,29 @@
+Function - 
+    function is a self contained block of code to execute
+    a specific task
+
+Function has two phases
+    1. Definition
+        Writing the actual business logic of the function
+        syntax - 
+            def <NAME_OF_FUNCTION>(parameter 1,parameter 2... parameter N):
+                statement 1
+                statement 2
+                ...
+                statement N
+    2. Invokation / call
+        Calling the function whenever needed
+        syntax
+        NAME_OF_FUNCTION(value 1, value 2,... value N)
+
+Categories of function - 
+    1. Function with no parameter and no return value
+    2. Function with parameter and no return value
+    3. Function with no parameter but return value
+    4. Function with parameter and return value both
+
+Function types in python - 
+    1. Default Argument Function
+    2. Keyword Argument Function
+    3. Arbitrary Argument Function
+    4. Keyword Arbitrary Argument Function
